@@ -11,5 +11,5 @@ I picked this project for fun since my favorite type of game is a platformer.
 @oliviaschafer24
 
 ## Badges
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{oliviaschafer24}/{COP-3003-Project}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{oliviaschafer24}/{COP-3003-Project}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{oliviaschafer24}/{COP-3003-Project})
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8516/badge)](https://www.bestpractices.dev/projects/8516)
